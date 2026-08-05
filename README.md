@@ -16,3 +16,7 @@ The installer and original source archive are attached to the [v1.6.0 GitHub rel
 - The archived source is available directly in this repository.
 
 The source tree was imported from the `Kino 1.6.0.zip` SourceForge release and the release artifacts were mirrored from the files page.
+
+## SourceForge download statistics
+
+![SourceForge download statistics](assets/sourceforge-download-statistics.png)
